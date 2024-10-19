@@ -3,3 +3,6 @@ description: "Welcome to my personal portfolio site"
 baseurl: "" # Leave this empty if you're using username.github.io
 url: "https://username.github.io"
 theme: minima # Or whatever Jekyll theme you're using
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one

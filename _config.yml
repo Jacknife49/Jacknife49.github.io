@@ -1,0 +1,5 @@
+title: "My Portfolio"
+description: "Welcome to my personal portfolio site"
+baseurl: "" # Leave this empty if you're using username.github.io
+url: "https://username.github.io"
+theme: minima # Or whatever Jekyll theme you're using
